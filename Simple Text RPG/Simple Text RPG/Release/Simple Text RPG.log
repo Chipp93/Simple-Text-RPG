@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Player.cpp
+Player.cpp(76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Wolf.cpp
+Main.obj : error LNK2001: unresolved external symbol "void __cdecl ShowBattleStats(class Player *,class Enemy *)" (?ShowBattleStats@@YAXPAVPlayer@@PAVEnemy@@@Z)
+C:\Users\David\Documents\Visual Studio 2015\Projects\Simple Text RPG\Release\Simple Text RPG.exe : fatal error LNK1120: 1 unresolved externals
